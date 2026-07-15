@@ -47,7 +47,7 @@
     "typescript": "~5.9.2"
   },
   "private": true,
-  "packageManager": "pnpm@10.14.0",
+  "packageManager": "pnpm@11.13.0",
   "overrides": {
     "lightningcss": "1.30.1"
   }
